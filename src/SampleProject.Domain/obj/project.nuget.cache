@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIjgpIabctvE9ZMTKYj8l60K0cqj9P7iWEHzRiwX5eGxtjrAte1M1YtW1PGdaURRJURV81pihLNivDEVRjCuHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CQRS1\\src\\SampleProject.Domain\\SampleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

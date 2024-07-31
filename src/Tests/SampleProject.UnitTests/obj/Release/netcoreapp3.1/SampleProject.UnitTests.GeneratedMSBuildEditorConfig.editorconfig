@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SampleProject.UnitTests
+build_property.ProjectDir = C:\Users\Admin\source\repos\CQRS1\src\Tests\SampleProject.UnitTests\

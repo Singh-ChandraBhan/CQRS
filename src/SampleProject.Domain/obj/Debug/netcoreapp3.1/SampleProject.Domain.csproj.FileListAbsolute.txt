@@ -1,0 +1,10 @@
+D:\Development\CQRS\src\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.deps.json
+D:\Development\CQRS\src\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+D:\Development\CQRS\src\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.AssemblyReference.cache
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfoInputs.cache
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfo.cs
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.CoreCompileInputs.cache
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.dll
+D:\Development\CQRS\src\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.pdb
